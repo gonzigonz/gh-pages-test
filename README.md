@@ -1,3 +1,10 @@
+# Github Pages
+To deploy to Github pages:
+```
+npm run deploy
+```
+View at https://gonzigonz.github.io/gh-pages-test/  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
